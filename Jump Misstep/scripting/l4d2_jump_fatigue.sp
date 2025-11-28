@@ -139,7 +139,7 @@ public void Event_PlayerJump(Event event, const char[] name, bool dontBroadcast)
             
             char sName[MAX_NAME_LENGTH];
             GetClientName(client, sName, sizeof(sName));
-            PrintToChatAll("\x04%s\x03 nhảy bị trượt chân \x04Ngã\x03 hahaha!", sName); 
+            PrintToChatAll("\x04%s\x03 slipped and \x04fell\x03 hahaha!", sName); 
             
             g_iJumpCount[client] = 0;
         }
@@ -184,7 +184,7 @@ void DoPlayerStumble(int target)
     // --- SỬ DỤNG SDKCALL ĐỂ HẤT TUNG ---
     SDKCall(sdkCallPushPlayer, target, fResultingFling, 76, target, fFlingDuration);
     
-    PrintHintText(target, "Bạn bị ngã vì Trượt Chân");
+    PrintHintText(target, "You slipped and fell!");
 }
 
 // ===============================================
