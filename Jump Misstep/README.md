@@ -8,16 +8,15 @@ Plugin này cho người sống sót khi nhảy có tỉ lệ sẽ bị trượt
     L4D2
     ```
 
-* <details><summary>How does it work?</summary>
-
 * Require | Cài đặt bắt buộc
 <br/>None
 
-* <details><summary>How does it work?</summary>
+* <details>
+    <summary>How does it work?</summary>
 
         * Khi người chơi sử dụng hành động nhảy đến một lần cố định sẽ có tỉ lệ % người chơi bị trượt chân và ngã
         * When a player performs a jump a fixed number of times, there is a percentage chance that the player will slip and fall.
-</details>
+  </details>
 
 * <details><summary>ConVar</summary>
 
