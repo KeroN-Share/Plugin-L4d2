@@ -15,8 +15,8 @@ Plugin này cho người sống sót khi nhảy có tỉ lệ sẽ bị trượt
 
 * <details><summary>How does it work?</summary>
 
-    * Khi người chơi sử dụng hành động nhảy đến một lần cố định sẽ có tỉ lệ % người chơi bị trượt chân và ngã
-    * When a player performs a jump a fixed number of times, there is a percentage chance that the player will slip and fall.
+        * Khi người chơi sử dụng hành động nhảy đến một lần cố định sẽ có tỉ lệ % người chơi bị trượt chân và ngã
+        * When a player performs a jump a fixed number of times, there is a percentage chance that the player will slip and fall.
 </details>
 
 * <details><summary>ConVar</summary>
