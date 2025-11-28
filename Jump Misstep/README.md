@@ -2,12 +2,6 @@
 This plugin gives the survivor a chance to slip and fall when jumping.
 Plugin này cho người sống sót khi nhảy có tỉ lệ sẽ bị trượt chân vấp ngã
 
-* Apply to | 適用於
-    ```
-    L4D1
-    L4D2
-    ```
-
 * Require | Cài đặt bắt buộc
 <br/>None
 
