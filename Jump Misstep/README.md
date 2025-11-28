@@ -1,6 +1,6 @@
 # Description | Miêu tả
-This plugin gives the survivor a chance to slip and fall when jumping.
-Plugin này cho người sống sót khi nhảy có tỉ lệ sẽ bị trượt chân vấp ngã
+* This plugin gives the survivor a chance to slip and fall when jumping.
+* Plugin này cho người sống sót khi nhảy có tỉ lệ sẽ bị trượt chân vấp ngã
 
 * Require | Cài đặt bắt buộc
 <br/>None
